@@ -30,6 +30,13 @@ Actualmente, el formulario es de carácter **estático** (no conectado a un serv
 
 ---
 
+## 🖥️ Vista previa
+
+Para visualizar el formulario, abre el archivo **index.html** directamente en tu navegador.  
+Solo haz doble clic sobre el archivo o arrástralo a una ventana de tu navegador.
+
+---
+
 ## 💡 Autoría
 
 **Desarrollado por:** Macarena Mora Veloso  
