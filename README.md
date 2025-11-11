@@ -24,6 +24,7 @@ Además, cuenta con un botón de envío centrado y un diseño sencillo con borde
 
 ---
 
+
 ## ⚙️ Funcionalidad
 
 Actualmente, el formulario es de carácter **estático** (no conectado a un servidor ni base de datos).  
@@ -32,8 +33,12 @@ Actualmente, el formulario es de carácter **estático** (no conectado a un serv
 
 ## 🖥️ Vista previa
 
-Para visualizar el formulario, abre el archivo **index.html** directamente en tu navegador.  
-Solo haz doble clic sobre el archivo o arrástralo a una ventana de tu navegador.
+A continuación se muestra la vista previa del formulario creado en HTML:
+
+<div align="center">
+<img width="652" height="846" alt="Boletin png" src="https://github.com/user-attachments/assets/9db6f0da-4d9c-403b-b187-3e31fadab00f" />
+</div>
+
 
 ---
 
